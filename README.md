@@ -1,4 +1,7 @@
+# Hi, I'm Ruel (:coffee::computer::bulb::heart:)
+
 Full Stack Dev(Ruby) | DevOps | Start-Up IT Consultant
+
 - 🔭 I’m currently working on my own project
 <!--
 **raketbizdev/raketbizdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
