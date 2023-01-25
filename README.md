@@ -7,3 +7,6 @@
 
 - :muscle: Currently working as a freelance developer.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raketbizdev&layout=compact&theme="tokyonight")
+
+
