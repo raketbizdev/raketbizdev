@@ -1,4 +1,4 @@
-# Hi there, I'm Ruel 👋
+![Profile Card](https://git-profile-card.vercel.app/?username=raketbizdev)
 
 ## About Me
 
