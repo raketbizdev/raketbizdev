@@ -1,4 +1,4 @@
-# Hi, I'm Ruel I love :coffee:👨‍💻 [profile](https://komarev.com/ghpvc/?username=raketbizdev&label=Profile%20views&color=0e75b6&style=flat)
+# Hi, I'm Ruel I love :coffee:👨‍💻 <img src="https://komarev.com/ghpvc/?username=raketbizdev&label=Profile%20views&color=0e75b6&style=flat" alt="raketbizdev" />
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raketbizdev)[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow)
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=8c0dc96f6191&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
@@ -17,11 +17,10 @@
 <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raketbizdev&label=Profile%20views&color=0e75b6&style=flat" alt="raketbizdev" /> </p>
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raketbizdev" alt="raketbizdev" /></a> </p>
+<p align="left"> <a href="https://github.com/raketbizdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raketbizdev" alt="raketbizdev" /></a> </p>
 
 <br />
 
