@@ -26,6 +26,9 @@ Here's how I can help your business:
 - Ruby
 - Git & GitHub
 
+--- 
+![raketbizdev's Github stats](https://github-readme-stats.vercel.app/api?username=raketbizdev&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+
 ## Portfolio of Projects
 
 * [Project 1](https://github.com/username/project1) - A brief description of Project 1
