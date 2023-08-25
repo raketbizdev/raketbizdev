@@ -22,7 +22,7 @@ Here's how I can help your business:
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
+---
 ## Portfolio of Projects
 * [cleeneco](https://cleeneco.com) - A Wordpress Website for Cleaning service
 * [Iokos](https://warranty.iokos.ph) - A Digital warranty app.
