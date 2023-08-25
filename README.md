@@ -1,5 +1,7 @@
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raketbizdev)[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow)
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=8c0dc96f6191&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raketbizdev)
+[![Linkedin](https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rnopal/)
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow)
+[![DigitalOcean](https://img.shields.io/badge/digitalocean-%231877F2.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/?refcode=8c0dc96f6191&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 ## About Me
 
