@@ -29,10 +29,9 @@ Here's how I can help your business:
 
 ## Portfolio of Projects
 
-* [Project 1](https://github.com/username/project1) - A brief description of Project 1
-* [Project 2](https://github.com/username/project2) - A brief description of Project 2
-* [Project 3](https://github.com/username/project3) - A brief description of Project 3
-* [Project 4](https://github.com/username/project4) - A brief description of Project 4
+* [cleeneco](https://cleeneco.com) - A Wordpress Website for Cleaning service
+* [Iokos](https://warranty.iokos.ph) - A Digital warranty app.
+* [toyota](https://toyotapasig.com/) - A Custom website for Toyota Pasig.
 
 ## NPM Packages
 
@@ -40,11 +39,18 @@ Here's how I can help your business:
 - [nodemail-aws-ses](https://www.npmjs.com/package/nodemail-aws-ses) - A Node.js module for sending emails using Amazon SES (Simple Email Service)
 - [node-aws-acm](https://www.npmjs.com/package/node-aws-acm) - A Node.js module for managing Amazon Certificate Manager (ACM) certificates
 
+## Ruby Gem
+- [encryptable](https://rubygems.org/gems/encryptable) - A simple encryption and decryption library for Ruby  and Ruby on Rails applications.
+
+## WordPress Plugin
+- [google-maps-gutenberg-block](https://github.com/raketbizdev/google-maps-gutenberg-block) - A WordPress Gutenberg block plugin to embed Google Maps into your posts and pages.
+- [car-listing](https://github.com/raketbizdev/car-listing) - This plugin provides the functionality to list cars on your WordPress website. Users can add car details, and the plugin offers templates for both the archive and single views.
+
 ## Get in Touch
 
 Feel free to reach out to me if you'd like to collaborate on a project, need help with your existing projects, or just want to chat!
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/rnopal/)
+- [Twitter](https://twitter.com/rnopal)
+- [Email](mailto:rakethost@gmail.com)
 
