@@ -1,3 +1,14 @@
+## Get in Touch
+
+Feel free to reach out to me if you'd like to collaborate on a project, need help with your existing projects, or just want to chat!
+
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raketbizdev)
+[![Linkedin](https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rnopal/)
+[![Linkedin](https://img.shields.io/badge/x-%231877F2.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/rnopal)
+[![YouTube](https://img.shields.io/badge/gmail-%23FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakethost@gmail.com)
+[![DigitalOcean](https://img.shields.io/badge/digitalocean-%231877F2.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/?refcode=8c0dc96f6191&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow)
+
 ## About Me
 
 I'm a Full Stack Developer with a passion for creating high-quality and efficient solutions to help businesses thrive. I'm always eager to learn new technologies and expand my skillset.
@@ -25,13 +36,13 @@ Here's how I can help your business:
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
-<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
-<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
+<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<img align="left" alt="azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
+<img align="left" alt="google" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
+<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
+<img align="left" alt="wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 
 
 &nbsp;
@@ -52,14 +63,3 @@ Here's how I can help your business:
 ## WordPress Plugin
 - [google-maps-gutenberg-block](https://github.com/raketbizdev/google-maps-gutenberg-block) - A WordPress Gutenberg block plugin to embed Google Maps into your posts and pages.
 - [car-listing](https://github.com/raketbizdev/car-listing) - This plugin provides the functionality to list cars on your WordPress website. Users can add car details, and the plugin offers templates for both the archive and single views.
-
-## Get in Touch
-
-Feel free to reach out to me if you'd like to collaborate on a project, need help with your existing projects, or just want to chat!
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raketbizdev)
-[![Linkedin](https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rnopal/)
-[![Linkedin](https://img.shields.io/badge/x-%231877F2.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/rnopal)
-[![YouTube](https://img.shields.io/badge/gmail-%23FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakethost@gmail.com)
-[![DigitalOcean](https://img.shields.io/badge/digitalocean-%231877F2.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/?refcode=8c0dc96f6191&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow)
-
