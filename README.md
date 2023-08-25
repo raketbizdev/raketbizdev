@@ -24,13 +24,11 @@ Here's how I can help your business:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 ## Portfolio of Projects
-
 * [cleeneco](https://cleeneco.com) - A Wordpress Website for Cleaning service
 * [Iokos](https://warranty.iokos.ph) - A Digital warranty app.
 * [toyota](https://toyotapasig.com/) - A Custom website for Toyota Pasig.
 
 ## NPM Packages
-
 - [bootstrap5-p1](https://www.npmjs.com/package/bootstrap5-p1) - A lightweight and responsive Bootstrap 5 component library for modern web applications
 - [nodemail-aws-ses](https://www.npmjs.com/package/nodemail-aws-ses) - A Node.js module for sending emails using Amazon SES (Simple Email Service)
 - [node-aws-acm](https://www.npmjs.com/package/node-aws-acm) - A Node.js module for managing Amazon Certificate Manager (ACM) certificates
