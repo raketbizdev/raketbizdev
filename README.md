@@ -1,7 +1,3 @@
-## Get in Touch
-
-Feel free to reach out to me if you'd like to collaborate on a project, need help with your existing projects, or just want to chat!
-
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raketbizdev)
 [![Linkedin](https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rnopal/)
 [![Linkedin](https://img.shields.io/badge/x-%231877F2.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/rnopal)
