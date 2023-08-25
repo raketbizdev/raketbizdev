@@ -1,8 +1,3 @@
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raketbizdev)
-[![Linkedin](https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rnopal/)
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow)
-[![DigitalOcean](https://img.shields.io/badge/digitalocean-%231877F2.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/?refcode=8c0dc96f6191&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
 ## About Me
 
 I'm a Full Stack Developer with a passion for creating high-quality and efficient solutions to help businesses thrive. I'm always eager to learn new technologies and expand my skillset.
@@ -61,8 +56,10 @@ Here's how I can help your business:
 ## Get in Touch
 
 Feel free to reach out to me if you'd like to collaborate on a project, need help with your existing projects, or just want to chat!
-
-- [LinkedIn](https://www.linkedin.com/in/rnopal/)
-- [Twitter](https://twitter.com/rnopal)
-- [Email](mailto:rakethost@gmail.com)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raketbizdev)
+[![Linkedin](https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rnopal/)
+[![Linkedin](https://img.shields.io/badge/x-%231877F2.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/rnopal)
+[![YouTube](https://img.shields.io/badge/gmail-%23FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakethost@gmail.com))
+[![DigitalOcean](https://img.shields.io/badge/digitalocean-%231877F2.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/?refcode=8c0dc96f6191&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow)
 
