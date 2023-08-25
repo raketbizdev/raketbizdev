@@ -21,7 +21,7 @@ Here's how I can help your business:
 
 ## Portfolio of Projects
 
-### Projects
+### Websites
 * [cleeneco](https://cleeneco.com) - A Wordpress Website for Cleaning service
 * [Iokos](https://warranty.iokos.ph) - A Digital warranty app.
 * [toyota](https://toyotapasig.com/) - A Custom website for Toyota Pasig.
