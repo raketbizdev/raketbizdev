@@ -36,7 +36,8 @@ Here's how I can help your business:
 - [xendit-ruby](https://github.com/rnopal/xendit-ruby) - This library is the abstraction of Xendit API for access from applications written with Ruby/Rails.
 
 ### Blockchain 
-[econpay](https://bithomp.com/explorer/rpCXAqJaHaRqf4rHMjNrCpsKi1Dc2mJS8F) - Econ pay is a dynamic XRP token known as EconPay. Designed to revolutionize digital transactions, EconPay offers seamless, secure, and lightning-fast transfers of value on the XRP Ledger. 
+- [econpay](https://bithomp.com/explorer/rpCXAqJaHaRqf4rHMjNrCpsKi1Dc2mJS8F) - The anonymous XRP token revolutionizing discreet transactions for subscription sites like OnlyFans & Ashley Madison or Pornhub.
+- [CLEO](https://bscscan.com/token/0x0281f67ae371ab9f22e0dba9afdfe5162a64d041) - My personal token project, a result of studying blockchain mechanics and its economy.
 
 ### WordPress Plugin
 - [google-maps-gutenberg-block](https://github.com/raketbizdev/google-maps-gutenberg-block) - A WordPress Gutenberg block plugin to embed Google Maps into your posts and pages.
