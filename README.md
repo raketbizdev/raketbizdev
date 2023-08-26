@@ -35,6 +35,9 @@ Here's how I can help your business:
 - [encryptable](https://rubygems.org/gems/encryptable) - A simple encryption and decryption library for Ruby  and Ruby on Rails applications.
 - [xendit-ruby](https://github.com/rnopal/xendit-ruby) - This library is the abstraction of Xendit API for access from applications written with Ruby/Rails.
 
+### Blockchain 
+[econpay](https://bithomp.com/explorer/rpCXAqJaHaRqf4rHMjNrCpsKi1Dc2mJS8F) - Econ pay is a dynamic XRP token known as EconPay. Designed to revolutionize digital transactions, EconPay offers seamless, secure, and lightning-fast transfers of value on the XRP Ledger. 
+
 ### WordPress Plugin
 - [google-maps-gutenberg-block](https://github.com/raketbizdev/google-maps-gutenberg-block) - A WordPress Gutenberg block plugin to embed Google Maps into your posts and pages.
 - [car-listing](https://github.com/raketbizdev/car-listing) - This plugin provides the functionality to list cars on your WordPress website. Users can add car details, and the plugin offers templates for both the archive and single views.
