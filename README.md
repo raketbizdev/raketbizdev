@@ -7,7 +7,14 @@
 
 ## About Me
 
-I'm a Full Stack Developer with a passion for creating high-quality and efficient solutions to help businesses thrive. I'm always eager to learn new technologies and expand my skillset.
+I'm a **DevSecOps Coach** and **DevOps Advocate** who specializes in helping engineering teams implement secure, scalable, and automated software delivery pipelines. 
+
+With years of experience as a **Full Stack Developer** and **Business Analyst**, I combine technical expertise with strategic thinking to drive DevOps transformation in organizations of all sizes.
+
+I’m passionate about:
+- Coaching teams on **CI/CD pipelines**, **infrastructure as code**, and **security automation**
+- Promoting **DevSecOps culture** to shift security left in the SDLC
+- Empowering developers to ship faster with confidence
 
 ## Skills and Expertise
 
